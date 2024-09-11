@@ -26,4 +26,4 @@ Additionally, the repository includes a Jupyter Notebook that explains the code 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/MHS-4ever/PRODIGY_CS_03.git
+   git clone https://github.com/MHS-4ever/Password-Strength-Checker-Tool.git
